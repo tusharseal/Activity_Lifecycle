@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
-    val TAG = "Tushar"
+    private val TAG = "Main Activity"
     private lateinit var button : Button
 
 
